@@ -4,7 +4,7 @@
   
   <h2> Warm Regards</h2>
   
-  <h3> Amal Mathew </h3>
+  <h3> Amal  </h3>
 
 </body>
 </html>
